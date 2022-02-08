@@ -1,0 +1,14 @@
+---Development point 
+discuss with deepak sir
+1.https://trello.com/c/1UUvCtD2/184-language
+2.https://trello.com/c/b7d29YuT/235-userpurchased-not-saving-price-and-currency-information
+3.https://trello.com/c/Y8qRoBuZ/185-admin-videos-tags-list-is-not-being-populated
+4.https://trello.com/c/8N0Cco0U/243-plan-ipad
+5.https://trello.com/c/dzg4fHQL/242-plan-ipad
+6.https://trello.com/c/rm0FcEZp/237-admin-price-is-not-reading-the-country-table-correctly
+7.https://trello.com/c/v7hnBkv8/236-planextralicenses-table-usage-is-wrong
+8.https://trello.com/c/wAKp2gSV/195-wrong-payment-price-and-currency
+9.https://trello.com/c/usbRkjos/177-when-deleting-a-video-from-the-admin-page-video-parts-are-not-deleted
+10.https://trello.com/c/Z7KiJDZY/196-recipient-of-an-extra-license-cant-access-basic-videos
+
+client
